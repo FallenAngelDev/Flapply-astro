@@ -1,1 +1,1 @@
-# Flaply-astro
+# Flapply-astro
